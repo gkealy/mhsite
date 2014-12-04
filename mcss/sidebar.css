@@ -1,0 +1,35 @@
+p {
+	font-size: 1em;
+	line-height: 1.4em;
+	padding: 10px;
+}
+
+.sidebar {
+	background-color: white;
+	position: fixed;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+}
+
+.logo {
+	padding-top: 25px;
+}
+
+.portrait {
+	display: inline-block;
+	position: relative;
+	width: 48%;
+	margin-top: 11px;
+}
+
+.photos {
+	position: absolute;
+	bottom: 42px;
+	padding-left: 22px;
+	padding-right: 37px;
+}
+
+.about {
+	padding-left: 25px;
+}

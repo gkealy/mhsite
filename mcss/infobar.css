@@ -1,0 +1,59 @@
+.dim {
+	display: none;
+	position: fixed;
+	background-color: black;
+	opacity: .2;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+.close {
+	float: right;
+	padding-top: 30px;
+	padding-right: 30px;
+}
+
+.glyphicon-remove-circle {
+	color: green;
+    font-size: 1.2em;
+}
+
+.info {
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, .8);
+	display: none;
+	position: fixed;
+	left: 16.67%;
+	height: 100%;
+	width: 16.666666%;
+}
+
+.infomd {
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, .8);
+	display: none;
+	position: fixed;
+	left: 16.67%;
+	height: 100%;
+	width: 33.3333%;
+}
+
+.infosm {
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, .8);
+	display: none;
+	position: fixed;
+	left: 25%;
+	height: 100%;
+	width: 33.3333%;
+}
+
+.infoxs {
+	background: rgb(255, 255, 255);
+	background: rgba(255, 255, 255, .8);
+	display: none;
+	position: fixed;
+	top: 90px;
+	height: auto;
+}

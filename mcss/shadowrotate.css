@@ -1,0 +1,58 @@
+.flyer-shadow {
+	box-shadow: -7px -5px 14px 0px rgba(0, 0, 0, 0.4);
+	position: relative;
+	z-index: -2;
+	width: 100%;
+}
+
+.tablet-shadow {
+	box-shadow:  -19px -13px 28px -15px rgba(0, 0, 0, 0.6), 100px 0px 53px -25px rgba(0, 0, 0, 0.2) inset;
+	margin-bottom: 60px;
+}
+
+.shadow-over {
+	box-shadow: inset 16px 20px 90px rgba(0, 0, 0, 0.27);
+}
+
+.card-shadow {
+	box-shadow: -2px -2px 6px 0px rgba(0, 0, 0, 0.5), inset 10px 5px 20px 4px rgba(0, 0, 0, 0.23);
+	position: relative;
+	z-index: -2;
+	width: 100%;
+}
+
+.card-shadow-2 {
+	box-shadow: -1px -1px 6px 0px rgba(0, 0, 0, 0.7), inset 10px 5px 20px 4px rgba(0, 0, 0, 0.23);
+	position: relative;
+	z-index: -2;
+	width: 100%;
+}
+
+.card-shadow-over {
+	box-shadow: 25px 0px 38px rgba(0, 0, 0, 0.27) inset ;
+}
+
+.paper-shadow {
+	box-shadow: -28px 12px 23px -17px rgba(0, 0, 0, 0.4);
+	position: relative;
+	z-index: -2;
+}
+
+.rotate6 {
+	-ms-transform: rotate(.6deg); /* IE 9 */
+    -webkit-transform: rotate(.6deg); /* Chrome, Safari, Opera */
+    transform: rotate(.6deg);
+}
+
+
+.rotateM4 {
+	 -ms-transform: rotate(-0.4deg); /* IE 9 */
+    -webkit-transform: rotate(-0.4deg); /* Chrome, Safari, Opera */
+    transform: rotate(-0.4deg);
+}
+
+.rotateM3 {
+	 -ms-transform: rotate(-0.3deg); /* IE 9 */
+    -webkit-transform: rotate(-0.3deg); /* Chrome, Safari, Opera */
+    transform: rotate(-0.3deg);
+}

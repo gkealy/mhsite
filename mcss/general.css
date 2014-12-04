@@ -1,0 +1,35 @@
+body {
+	font-family: raleway, sans-serif;
+	background-color: #2f502a;
+	background-image: url(imgs/back.JPG);
+	background-size: 100%;
+
+}
+
+@media (max-width: 767px) {
+
+	body {
+		background-image: url(imgs/back_xs.JPG);
+	}
+}
+
+a, a:hover, a:active, a:focus {
+	color: #3b6235;
+	outline: 0;
+	text-decoration: none;
+}
+
+::-moz-selection { /* Code for Firefox */
+    color: #fff;
+    background: #9fc399;
+}
+
+::selection {
+    background: #9fc399;
+}
+
+.infopadding {
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 60px;
+}
